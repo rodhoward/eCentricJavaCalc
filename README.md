@@ -14,17 +14,17 @@ I compiled and tested it using Netbeans.
 
 ## Build 
 
-'''shell
+```shell
 ant
-'''
+```
 
 ### Test
-'''shell
+```shell
 ant test
-'''
+```
 
 ### Run
-'''shell
+```shell
 ant
 java -jar dist/ecalc.jar 4 x 4
-'''
+```
